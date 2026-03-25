@@ -1,4 +1,5 @@
 # Flappy Bird UE
+![Screenshot del Gioco](docs/images/Play.PNG)
 ## Informazioni generali
 
 **Titolo**: Flappy Bird UE
@@ -27,6 +28,7 @@ Il sistema è strutturato in componenti indipendenti:
 La logica è implementata tramite Blueprint e/o C++.
 
 ## Gameplay
+![Screenshot della Pausa](docs/images/EndScore.PNG)
 
 Il gameplay si basa su:
 
